@@ -11,10 +11,10 @@ My MVP goal is to have the app fully functional based on the above description. 
 Full MVC, Mongoose, Express, Node.js. I will also use Javascript and CSS
 
 ## Wireframes
-![](https://wireframe.cc/pro/pp/903c36b0f722238)
+![Wireframe Link](https://wireframe.cc/pro/pp/903c36b0f722238)
 
 ## ERD
-![](https://lucid.app/lucidchart/458f6004-9c3a-4e22-8524-14c1de7db1af/edit?viewport_loc=-630%2C43%2C1804%2C1001%2C0_0&invitationId=inv_9b23bae6-bf26-40de-a66d-c1ff2c25ed99)
+![ERD Link](https://lucid.app/lucidchart/458f6004-9c3a-4e22-8524-14c1de7db1af/edit?viewport_loc=-630%2C43%2C1804%2C1001%2C0_0&invitationId=inv_9b23bae6-bf26-40de-a66d-c1ff2c25ed99)
 
 ## Stretch Goals
 I really want to build a fully interactive golf website/app, and would like golf to be the focus of my future projects as well. 
